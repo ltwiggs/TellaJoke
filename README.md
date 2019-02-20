@@ -1,2 +1,0 @@
-# TellaJoke
-Created with CodeSandbox
